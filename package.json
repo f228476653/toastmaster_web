@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "toastmaster",
   "private": true,
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
@@ -40,9 +40,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/f228476653/toastmaster_web"
+    "url": "git+https://github.com/f228476653/toastmaster_web.git"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
-  }
+  },
+  "homepage": "https://github.com/f228476653/toastmaster_web",
+  "main": "gatsby-browser.js"
 }
